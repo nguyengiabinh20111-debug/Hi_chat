@@ -1,0 +1,11 @@
+{
+  "name": "hi",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-26",
+  "kv_namespaces": [
+    {
+      "binding": "CHAT_KV",
+      "id": "cd1de0c0152b44819afd42970304062f"
+    }
+  ]
+}
