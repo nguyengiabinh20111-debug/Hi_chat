@@ -218,7 +218,7 @@ export default {
     return jsonResponse({
       ok: true,
       service: "Hi Shared KV Worker",
-      kvEnabled: Boolean(env && env.hi_chat)
+      kvEnabled: Boolean(env && env.CHAT_KV)
     });
   }
 };
